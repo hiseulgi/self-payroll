@@ -1,4 +1,4 @@
-# Self payroll System
+# Self Payroll System
 Fitur utama dari web service ini adalah employee dapat melakukan penarikan gaji secara mandiri setiap bulannya.
 
 Lebih detail nya, fitur yang harus dikerjakan adalah:
